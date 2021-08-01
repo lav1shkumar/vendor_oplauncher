@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/oplauncher/Prebuilt
 # OOS 11 Launcher
 PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
-    OPLauncher \
+    OPLauncherReleases \
     OPIconpackOxygen \
     OPIconpackRound \
     OPIconPackCyberPunk \
